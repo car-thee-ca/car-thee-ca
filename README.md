@@ -13,7 +13,7 @@
 </a>
 
 <a href= "https://user-images.githubusercontent.com/42571681/104142319-19003100-5389-11eb-8da7-b15a97388818.png" >
-  <img align="left" alt="Karthika's Gmail" width="22px" src="https://user-images.githubusercontent.com/42571681/104142373-4f3db080-5389-11eb-9acf-52de62a7d81c.png" />
+  <img align="left" alt="Karthika's Gmail" width="22px" src="https://user-images.githubusercontent.com/42571681/104142413-7f854f00-5389-11eb-859d-c95489ec0e50.png" />
 </a>
 
 <br />
