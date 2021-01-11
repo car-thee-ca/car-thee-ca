@@ -15,7 +15,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
      <img height="30"  src="https://user-images.githubusercontent.com/42571681/104142181-6203b580-5388-11eb-87e4-5d0bd8a862b7.png" />
    </a>
 
-   <a href= "kvadive@ncsu.edu" >
+   <a href= "mailto:kvadive@ncsu.edu" >
      <img height="30" src="https://user-images.githubusercontent.com/42571681/104142413-7f854f00-5389-11eb-859d-c95489ec0e50.png" />
    </a>
    
