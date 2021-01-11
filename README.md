@@ -1,8 +1,8 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <p align="center">
-## I am Karthika Vadivel and I'm a passionate engineer looking to build a career in Deep Learning and AI technology 
-</p>
+I am Karthika Vadivel and I'm a passionate engineer looking to build a career in Deep Learning and AI technology 
+
 <a href="https://www.linkedin.com/in/karthivadivel/">
   <img align="left" alt="Karthika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -16,7 +16,7 @@
 <a href= "https://user-images.githubusercontent.com/42571681/104142319-19003100-5389-11eb-8da7-b15a97388818.png" >
   <img align="left" alt="Karthika's Gmail" width="22px" src="https://user-images.githubusercontent.com/42571681/104142413-7f854f00-5389-11eb-859d-c95489ec0e50.png" />
 </a>
-
+</p>
 <br />
 
 Hi, I'm [Karthika Vadivel!](https://blog.abhisheknaidu.tech/), a passionate engineer looking to build a career in Deep Learning and AI technology
