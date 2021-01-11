@@ -10,6 +10,10 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
    <a href="https://leetcode.com/kvadive/">
      <img height="30"  src="https://user-images.githubusercontent.com/42571681/104142181-6203b580-5388-11eb-87e4-5d0bd8a862b7.png" />
    </a>&nbsp;&nbsp;
+   
+   <a href= "https://github.com/car-thee-ca/Viola-Jones-Face-Recognition/files/5793724/Karthika_Resume__Version_1_.pdf" >
+     <img height="30" src="https://user-images.githubusercontent.com/42571681/104204693-8c428b00-53fb-11eb-9507-2e8200a88441.png" />
+   </a>&nbsp;&nbsp;
 
    <a href= "mailto:kvadive@ncsu.edu" >
      <img height="30" src="https://user-images.githubusercontent.com/42571681/104142413-7f854f00-5389-11eb-859d-c95489ec0e50.png" />
