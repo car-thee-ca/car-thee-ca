@@ -8,18 +8,18 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
    </a>
 
    <a href="spotify:user:315tq6cpz2w4mzdzn5la3gi72gc4">
-     <img align="left" alt="Karthika's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+     <img height="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
    </a>
 
    <a href="https://leetcode.com/kvadive/">
-     <img align="left" alt="Karthika's Leetcode" width="22px" src="https://user-images.githubusercontent.com/42571681/104142181-6203b580-5388-11eb-87e4-5d0bd8a862b7.png" />
+     <img height="30"  src="https://user-images.githubusercontent.com/42571681/104142181-6203b580-5388-11eb-87e4-5d0bd8a862b7.png" />
    </a>
 
    <a href= "kvadive@ncsu.edu" >
-     <img align="left" alt="Karthika's Gmail" width="22px" src="https://user-images.githubusercontent.com/42571681/104142413-7f854f00-5389-11eb-859d-c95489ec0e50.png" />
+     <img height="30" src="https://user-images.githubusercontent.com/42571681/104142413-7f854f00-5389-11eb-859d-c95489ec0e50.png" />
    </a>
     <a href= "https://github.com/car-thee-ca/Viola-Jones-Face-Recognition/files/5793724/Karthika_Resume__Version_1_.pdf" >
-     <img align="left" alt="Karthika's Resume" width="22px" src="https://user-images.githubusercontent.com/42571681/104143117-397dba80-538c-11eb-80fc-f5e5a53f4aa8.png" />
+     <img height="30"  src="https://user-images.githubusercontent.com/42571681/104143117-397dba80-538c-11eb-80fc-f5e5a53f4aa8.png" />
    </a>
    <a href="https://www.instagram.com/rasode_mein_kaun/?hl=en"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
    
