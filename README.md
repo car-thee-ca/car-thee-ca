@@ -21,10 +21,6 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 <br />
 
-
-Hi, I'm Karthika Vadivel, a passionate engineer looking to build a career in Deep Learning and AI technology
- 🚀 from the United States.
-
   <img align="right" alt="GIF" src="https://github.com/car-thee-ca/car-thee-ca/blob/main/women_code_gif_3.gif?raw=true" width="500" height="320" />
   
 - 🔭 I’m currently working on completing my Master's from the North Carolina State University
