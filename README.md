@@ -4,11 +4,11 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
  
  <p align='center'>
    <a href="https://www.linkedin.com/in/karthivadivel/">
-     <img align="left" alt="Karthika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+     <img height="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
    </a>
-
-   <a href="spotify:user:315tq6cpz2w4mzdzn5la3gi72gc4">
-     <img height="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+ 
+   <a href= "https://github.com/car-thee-ca/Viola-Jones-Face-Recognition/files/5793724/Karthika_Resume__Version_1_.pdf" >
+     <img height="30"  src="https://user-images.githubusercontent.com/42571681/104143117-397dba80-538c-11eb-80fc-f5e5a53f4aa8.png" />
    </a>
 
    <a href="https://leetcode.com/kvadive/">
@@ -18,10 +18,12 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
    <a href= "kvadive@ncsu.edu" >
      <img height="30" src="https://user-images.githubusercontent.com/42571681/104142413-7f854f00-5389-11eb-859d-c95489ec0e50.png" />
    </a>
-    <a href= "https://github.com/car-thee-ca/Viola-Jones-Face-Recognition/files/5793724/Karthika_Resume__Version_1_.pdf" >
-     <img height="30"  src="https://user-images.githubusercontent.com/42571681/104143117-397dba80-538c-11eb-80fc-f5e5a53f4aa8.png" />
-   </a>
+
    <a href="https://www.instagram.com/rasode_mein_kaun/?hl=en"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   
+   <a href="spotify:user:315tq6cpz2w4mzdzn5la3gi72gc4">
+     <img height="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+   </a>
    
 </p>
  
