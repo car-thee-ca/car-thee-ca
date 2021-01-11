@@ -1,22 +1,5 @@
 
-### Hi there 👋, I am Karthika Vadivel and I'm a passionate engineer looking to build a career in Deep Learning and AI technology
-
-<!--
-**car-thee-ca/car-thee-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on completing my Master's from the North Carolina State University
-- 🌱 I’m currently learning Computer Vision Techniques and AI methods
-- 👯 I’m looking to collaborate on technical projects that will enhance my skillset
-- 🤔 I’m looking for opportunities and industrial connections that will help me grow as a person
-- 💬 Ask me about any of the aforementioned fields
-- 📫 How to reach me: kvadive@ncsu.edu
-
-
-
-
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Karthika Vadivel and I'm a passionate engineer looking to build a career in Deep Learning and AI technology
 
 <a href="https://www.linkedin.com/in/karthivadivel/">
   <img align="left" alt="Karthika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -34,10 +17,12 @@ Hi, I'm [Karthika Vadivel!](https://blog.abhisheknaidu.tech/), a passionate engi
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 🔭 I’m currently working on completing my Master's from the North Carolina State University
+- 🌱 I’m currently learning Computer Vision Techniques and AI methods
+- 👯 I’m looking to collaborate on technical projects that will enhance my skillset
+- 🤔 I’m looking for opportunities and industrial connections that will help me grow as a person
+- 💬 Ask me about any of the aforementioned fields
+- 📫 How to reach me: kvadive@ncsu.edu
 - 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
 **Languages and Tools:**  
