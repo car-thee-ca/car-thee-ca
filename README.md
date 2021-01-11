@@ -1,6 +1,6 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<center># I am Karthika Vadivel and I'm a passionate engineer looking to build a career in Deep Learning and AI technology </center>
+<center> # I am Karthika Vadivel and I'm a passionate engineer looking to build a career in Deep Learning and AI technology </center>
 
 <a href="https://www.linkedin.com/in/karthivadivel/">
   <img align="left" alt="Karthika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
