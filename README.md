@@ -1,5 +1,5 @@
 <h1 align="center">
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Karthika
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Karthika Vadivel
  <h3 align="center">I'm a passionate engineer looking to build a career in Deep Learning and AI technology </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/karthivadivel/">
