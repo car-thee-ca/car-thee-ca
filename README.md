@@ -13,7 +13,7 @@
 Hi, I'm [Karthika Vadivel!](https://blog.abhisheknaidu.tech/), a passionate engineer looking to build a career in Deep Learning and AI technology
  🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/car-thee-ca/car-thee-ca/blob/main/women_code_gif_3.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
