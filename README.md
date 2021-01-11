@@ -23,7 +23,7 @@ Hi, I'm [Karthika Vadivel!](https://blog.abhisheknaidu.tech/), a passionate engi
 - 🤔 I’m looking for opportunities and industrial connections that will help me grow as a person
 - 💬 Ask me about any of the aforementioned fields
 - 📫 How to reach me: kvadive@ncsu.edu
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 📝[Resume](https://github.com/car-thee-ca/Viola-Jones-Face-Recognition/files/5793724/Karthika_Resume__Version_1_.pdf)
 
 **Languages and Tools:**  
 
