@@ -5,19 +5,15 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
  <p align='center'>
    <a href="https://www.linkedin.com/in/karthivadivel/">
      <img height="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-   </a>&nbsp;
+   </a>&nbsp;&nbsp;
  
    <a href="https://leetcode.com/kvadive/">
      <img height="30"  src="https://user-images.githubusercontent.com/42571681/104142181-6203b580-5388-11eb-87e4-5d0bd8a862b7.png" />
-   </a>&nbsp;
+   </a>&nbsp;&nbsp;
 
    <a href= "mailto:kvadive@ncsu.edu" >
      <img height="30" src="https://user-images.githubusercontent.com/42571681/104142413-7f854f00-5389-11eb-859d-c95489ec0e50.png" />
-   </a>&nbsp; 
-
-   <a href="https://www.instagram.com/rasode_mein_kaun/?hl=en"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg"></a>&nbsp;
-  </p>
- 
+   </a>&nbsp;&nbsp;
 
 <br />
 
