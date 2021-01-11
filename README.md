@@ -1,4 +1,4 @@
-<! -- 
+
 ### Hi there 👋, I am Karthika Vadivel and I'm a passionate engineer looking to build a career in Deep Learning and AI technology
 
 <!--
