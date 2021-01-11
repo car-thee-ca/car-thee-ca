@@ -2,7 +2,7 @@
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Karthika Vadivel </h1>
 <h3 align="center">I'm a passionate engineer looking to build a career in Deep Learning and AI technology </h3>
  
- <p align="center">
+ <p align='center'>
    <a href="https://www.linkedin.com/in/karthivadivel/">
      <img align="left" alt="Karthika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
    </a>
@@ -21,6 +21,8 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
     <a href= "https://github.com/car-thee-ca/Viola-Jones-Face-Recognition/files/5793724/Karthika_Resume__Version_1_.pdf" >
      <img align="left" alt="Karthika's Resume" width="22px" src="https://user-images.githubusercontent.com/42571681/104143117-397dba80-538c-11eb-80fc-f5e5a53f4aa8.png" />
    </a>
+   <a href="https://www.instagram.com/rasode_mein_kaun/?hl=en"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   
 </p>
  
 
