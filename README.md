@@ -8,6 +8,13 @@
 <a href="spotify:user:315tq6cpz2w4mzdzn5la3gi72gc4">
   <img align="left" alt="Karthika's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<a href="https://leetcode.com/kvadive/">
+  <img align="left" alt="Karthika's Leetcode" width="22px" src="https://user-images.githubusercontent.com/42571681/104142181-6203b580-5388-11eb-87e4-5d0bd8a862b7.png" />
+</a>
+https://user-images.githubusercontent.com/42571681/104142319-19003100-5389-11eb-8da7-b15a97388818.png
+<a href= "https://user-images.githubusercontent.com/42571681/104142319-19003100-5389-11eb-8da7-b15a97388818.png" >
+  <img align="left" alt="Karthika's Gmail" width="22px" src="https://user-images.githubusercontent.com/42571681/104142181-6203b580-5388-11eb-87e4-5d0bd8a862b7.png" />
+</a>
 
 <br />
 
