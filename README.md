@@ -1,25 +1,28 @@
 <h1 align="center">
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Karthika Vadivel </h1>
+<h3 align="center">I'm a passionate engineer looking to build a career in Deep Learning and AI technology </h3>
  
  <p align="center">
-<a href="https://www.linkedin.com/in/karthivadivel/">
-  <img align="left" alt="Karthika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
- 
-<a href="spotify:user:315tq6cpz2w4mzdzn5la3gi72gc4">
-  <img align="left" alt="Karthika's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
- 
-<a href="https://leetcode.com/kvadive/">
-  <img align="left" alt="Karthika's Leetcode" width="22px" src="https://user-images.githubusercontent.com/42571681/104142181-6203b580-5388-11eb-87e4-5d0bd8a862b7.png" />
-</a>
- 
-<a href= "https://user-images.githubusercontent.com/42571681/104142319-19003100-5389-11eb-8da7-b15a97388818.png" >
-  <img align="left" alt="Karthika's Gmail" width="22px" src="https://user-images.githubusercontent.com/42571681/104142413-7f854f00-5389-11eb-859d-c95489ec0e50.png" />
-</a>
+   <a href="https://www.linkedin.com/in/karthivadivel/">
+     <img align="left" alt="Karthika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   </a>
+
+   <a href="spotify:user:315tq6cpz2w4mzdzn5la3gi72gc4">
+     <img align="left" alt="Karthika's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+   </a>
+
+   <a href="https://leetcode.com/kvadive/">
+     <img align="left" alt="Karthika's Leetcode" width="22px" src="https://user-images.githubusercontent.com/42571681/104142181-6203b580-5388-11eb-87e4-5d0bd8a862b7.png" />
+   </a>
+
+   <a href= "kvadive@ncsu.edu" >
+     <img align="left" alt="Karthika's Gmail" width="22px" src="https://user-images.githubusercontent.com/42571681/104142413-7f854f00-5389-11eb-859d-c95489ec0e50.png" />
+   </a>
+    <a href= "https://github.com/car-thee-ca/Viola-Jones-Face-Recognition/files/5793724/Karthika_Resume__Version_1_.pdf" >
+     <img align="left" alt="Karthika's Resume" width="22px" src="https://user-images.githubusercontent.com/42571681/104143117-397dba80-538c-11eb-80fc-f5e5a53f4aa8.png" />
+   </a>
 </p>
  
- <h3 align="center">I'm a passionate engineer looking to build a career in Deep Learning and AI technology </h3>
 
 <br />
 
