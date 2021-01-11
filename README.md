@@ -18,14 +18,12 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
    <a href= "kvadive@ncsu.edu" >
      <img height="30" src="https://user-images.githubusercontent.com/42571681/104142413-7f854f00-5389-11eb-859d-c95489ec0e50.png" />
    </a>
-
-   <a href="https://www.instagram.com/rasode_mein_kaun/?hl=en"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" /></a>
    
    <a href="spotify:user:315tq6cpz2w4mzdzn5la3gi72gc4">
      <img height="30"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
    </a>
-   
-</p>
+   <a href="https://www.instagram.com/rasode_mein_kaun/?hl=en"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+  </p>
  
 
 <br />
